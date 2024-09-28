@@ -1,4 +1,6 @@
-# Go-zen-chu Tools
+# homebrew-tools
+
+homebrew tap repo for installing go-zen-chu tools.
 
 ## How do I install these formulae?
 
